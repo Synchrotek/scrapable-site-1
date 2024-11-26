@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Toaster } from "react-hot-toast";
 import CaptchaPage from "./pages/CaptchaPage";
 import ValidatePage from "./pages/ValidatePage";
-import Welcome from './pages/welcome';
+import Welcome from './pages/Welcome';
 
 function App() {
   return (
